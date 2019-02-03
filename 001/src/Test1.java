@@ -62,6 +62,5 @@ public class Test1 {
         //boolean类型不能转换为其他类型
 
 
-
     }
 }
