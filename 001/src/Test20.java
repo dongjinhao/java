@@ -15,7 +15,7 @@ public class Test20 {
             do {
                 num *= j;
                 j++;
-            }while(j<=i);
+            }while(j <= i);
             result += num;
             i++;
         }while (i <= 10);
