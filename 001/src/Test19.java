@@ -5,7 +5,7 @@
 /**
  * 逆序输出10~0
  */
-public class Tset19 {
+public class Test19 {
     public static void main(String[] args) {
         int i = 10;
         do {
